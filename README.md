@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá👋
+Oi, me chamo Beatriz Silva e possuo 25 anos. Formada em Biblioteconomia pela Universidade Federal de Pernambuco, atualmente estou em transição de carreira e cursando o 3° período de Análise e Desenvolvimento de Sistema.
 
-<!--
-**BiaSilvaa/BiaSilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias em estudo
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)
+![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
 
-Here are some ideas to get you started:
+## Contato
+<a href="https://www.linkedin.com/in/anabeatrizdsilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:annbia24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Status
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=BiaSilvaa&theme=nord&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaSilvaa&theme=nord&layout=compact)](https://github.com/BiaSilvaa/github-readme-stats)
+
+<div align="center"> 
+<br><p align="centre"><b>Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BiaSilvaa}/count.svg" /></p> 
+<br></div>
