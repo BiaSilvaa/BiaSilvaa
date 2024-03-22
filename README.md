@@ -15,8 +15,3 @@ Oi, me chamo Beatriz Silva e possuo 25 anos. Formada em Biblioteconomia pela Uni
 ## GitHub Status
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=BiaSilvaa&theme=nord&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaSilvaa&theme=nord&layout=compact)](https://github.com/BiaSilvaa/github-readme-stats)
-
-<div align="center"> 
-<br><p align="centre"><b>Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BiaSilvaa}/count.svg" /></p> 
-<br></div>
